@@ -1,0 +1,4 @@
+#Sat Feb 17 15:41:28 AMT 2018
+base.0=C\:\\Users\\Meruj\\AndroidStudioProjects\\ProjectMM\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
